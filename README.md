@@ -1,4 +1,4 @@
-### Hello, I'm Thanh 👋
+### Hello, I'm Tony 👋
 
 I'm a Computer Science student at the University of Waterloo. I mainly use GitHub to contribute to open-source projects.
 
